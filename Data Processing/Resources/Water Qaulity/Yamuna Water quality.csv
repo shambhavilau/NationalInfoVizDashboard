@@ -1,0 +1,114 @@
+Station Code,Category,Station Name,State Name,Year,Dissolved Oxygen(mg/L) - Min - >5mg/l,Dissolved Oxygen(mg/L) - Max - >5mg/l,Fecal Coliform (MPN/100ML) - Min - <2500MPN/100 ml,Fecal Coliform (MPN/100ML) - Max - <2500MPN/100 ml
+1492,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Yamunotri,Uttarakhand,2018,9.2,9.2,2,2
+1492,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Yamunotri,Uttarakhand,2019,9.8,9.8,2,2
+1492,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Yamunotri,Uttarakhand,2020,10.8,10.8,4,4
+1493,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Hanumanchatti,Uttarakhand,2018,9.4,9.4,680,680
+1493,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Hanumanchatti,Uttarakhand,2019,9,9,11,11
+1493,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Hanumanchatti,Uttarakhand,2020,11.6,11.6,94,94
+1494,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at u/so Flakhwardam,Uttarakhand,2018,7.6,9.4,5,5
+1494,Primary Water Quality Criteria for Out Door Bathing,River Yamuna  at u/s of Lakhwardam,Uttarakhand,2019,8.8,10,22,45
+1494,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at u/s of lakhwardam,Uttarakhand,2020,8.6,10.8,BDL,9
+1494,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at u/s of Lakhwardam,Uttarakhand,2021,9.2,10.2,2,2
+1490,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at u/s Dakpatthar,Uttarakhand,2018,8.6,9.2,NA,NA
+1490,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at u/s Dakpatthar,Uttarakhand,2019,8.6,9.2,70,170
+1490,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at u/s Dakpatthar,Uttarakhand,2020,8.2,10.2,17,34
+1490,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at u/s Dakpather,Uttarakhand,2021,8,9.8,26,40
+1553,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna, u/s Paontasahib",Himachal Pradesh,2018,5,8.2,11,21
+1553,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna, u/s Paontasahib",Himachal Pradesh Pradesh,2019,6.2,9.5,14,21
+1553,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna,u/s Paontasahib",Himachal Pradesh Pradesh,2020,7.1,9.1,9,46
+1553,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna, u/s Paontasahib",Himachal Pradesh,2021,7.3,8.7,11,22
+1554,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna, d/s Paontasahib",Himachal Pradesh,2018,5.5,8.1,14,24
+1554,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna, d/s Paontasahib",Himachal Pradesh,2019,6.3,9,15,26
+1554,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna, d/s Paontasahib",Himachal Pradesh,2020,7,9,11,27
+1554,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna, d/s Paontasahib",Himachal Pradesh,2021,7.2,8.8,21,33
+4439,Primary Water Quality Criteria for Out Door Bathing,River Yamuna u/s Ranbaxy,Himachal Pradesh,2019,6.4,8.4,13,25
+4439,Primary Water Quality Criteria for Out Door Bathing,River Yamuna u/s Ranbaxy,Himachal Pradesh,2020,7.1,8.9,10,130
+4439,Primary Water Quality Criteria for Out Door Bathing,River Yamuna u/s Ranbaxy,Himachal Pradesh,2021,5.6,8.9,17,40
+4440,Primary Water Quality Criteria for Out Door Bathing,River Yamuna d/s Ranbaxy,Himachal Pradesh,2019,6.2,8.4,13,41
+4440,Primary Water Quality Criteria for Out Door Bathing,River Yamuna d/s Ranbaxy,Himachal Pradesh,2020,7,8.8,10,33
+4440,Primary Water Quality Criteria for Out Door Bathing,River Yamuna d/s Ranbaxy,Himachal Pradesh,2021,7.3,8.8,17,33
+1117,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Hathnikund,Haryana,2018,7.7,12.2,2,1300000
+1117,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Hathnikund,Haryana,2019,4.8,8.1,200,8000
+1117,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Hathnikund,Haryana,2020,7.1,8.5,200,3200
+1117,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Hathnikund,Haryana,2021,5.9,8.6,110,110
+1496,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Kalanaur, Yamunanagar",Haryana,2018,6.2,10.1,9,490000
+1496,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Kalanaur, Yamunanagar",Haryana,2019,4.5,9.2,1300,40000
+1496,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Kalanaur, Yamuna nagar",Haryana,2020,6.8,9.3,200,49000
+1496,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Kalanaur, Yamuna nagar",Haryana,2021,5.6,7.8,200,6300
+4914,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Manglaura, Karnal",Haryana,2019,6.8,8.6,140,22000
+4914,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Manglaura, Karnal",Haryana,2020,5.2,10.8,49,7000
+4914,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Manglaura, Karnal",Haryana,2021,7.2,10.6,17,13000
+10004,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Khoj Ki Pur Panipat,Haryana,2018,5.8,15,130,92000
+10004,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at khoj Ki Purpanipat,Haryana,2019,4.6,11.2,800,140000
+10004,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at khoj Ki Purpanipat,Haryana,2020,5.6,8.6,34,110000
+10004,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Khoj Ki Purpanipat,Haryana,2021,0.3,8.3,17000,280000
+1119,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Sonepat,Haryana,2018,2.8,13,260,130000
+1119,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Sonepat,Haryana,2019,7.6,9.8,23,94000
+1119,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Sonepat,Haryana,2020,7.1,10.6,110,220000
+1119,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Sonepat,Haryana,2021,5.8,6.3,6300,10900
+1120,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Palla,Delhi,2018,4.9,10.5,20,920000
+1120,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Palla,Delhi,2019,6.8,13.2,20,4100
+1120,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Palla,Delhi,2020,5.6,17.1,78,79000
+1120,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Palla,Delhi,2021,8.2,13.5,68,22000
+1121,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Nizamuddin,Delhi,2018,1,6.2,49000,39000000
+1121,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Nizamuddin,Delhi,2019,BDL,2.4,490000,9200000
+1121,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Nizamuddin,Delhi,2020,BDL,2.4,210000,11000000
+1121,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Nizamuddin, Delhi",Delhi,2021,0.3,0.3,340000,4900000
+1375,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Okhla Bridge (inlet of agra canal),Delhi,2018,0.9,5,78000,4600000
+1375,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Okhla Bridge (inlet of agra canal),Delhi,2019,BDL,3.1,68000,11000000
+1375,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Okhla Bridge (inlet of agra canal),Delhi,2020,BDL,2.6,78000,3300000
+1375,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Okhla Bridge(inletofagra canal),Delhi,2021,0.3,0.3,380000,11000000
+1812,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Okhla after Meeting of Shahdaradra in,Delhi,2018,0.7,6.3,220000,34000000
+1812,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Okhla after Meeting of Shahdaradra in,Delhi,2019,BDL,3.3,220000,49000000
+1812,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Okhla after Meeting of Shahdaradra in,Delhi,2020,BDL,5.6,68000,7900000
+1812,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Okhla after Meeting of Shahdaradra in,Delhi,2021,0.3,0.3,2100000,22000000
+1497,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Rahimpur Ka Nagla, Near Fly Over Bridge (Mazawali)",Uttar Pradesh,2018,0,6.2,15000,4900000
+1497,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Rahimpur Ka Nagla, Near Fly Over Bridge (Mazawali)",Uttar Pradesh,2019,0,5.9,7800,1100000
+1497,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Rahimpur Ka Nagla, Near Flyover Bridge (Mazawali)",Uttar Pradesh,2020,BDL,2.3,680,4900000
+1497,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Rahimpur Ka Nagla, Near Flyover Bridge (Mazawali)",Uttar Pradesh,2021,0.3,1.8,33,16000000
+2493,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Shahpur,Uttar Pradesh,2018,1.8,5.8,38000,120000
+2493,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Shahpur,Uttar Pradesh,2019,2.8,6.4,52000,120000
+2493,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Shahpur,Uttar Pradesh,2020,4.6,6.9,31000,85000
+2493,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Shahpur,Uttar Pradesh,2021,4.8,7.2,27000,46000
+2495,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Kesighat, Vrindavan",Uttar Pradesh,2018,3.7,7.2,31000,72000
+2495,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Kesighat, Vrindavan",Uttar Pradesh,2019,4.8,6.1,49000,98000
+2495,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Kesighat, Vrindavan",Uttar Pradesh,2020,4,7.6,24000,65000
+2495,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Kesighat, Vrindavan",Uttar Pradesh,2021,5.2,7.2,28000,44000
+1123,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Mathura u/s,Uttar Pradesh,2018,0.6,10.6,920,170000
+1123,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Mathura u/s,Uttar Pradesh,2019,0.6,10.5,1100,35000
+1123,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Mathura u/s,Uttar Pradesh,2020,BDL,4.6,400,920000
+1123,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Mathura u/s,Uttar Pradesh,2021,0.3,6,110,49000
+2494,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Vishram Ghat, Mathura",Uttar Pradesh,2018,3.4,6.6,37000,92000
+2494,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Vishram Ghat, Mathura",Uttar Pradesh,2019,3.4,6.2,52000,95000
+2494,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Vishram Ghat, Mathura",Uttar Pradesh,2020,4.1,7.4,31000,92000
+2494,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Vishram Ghat, Mathura",Uttar Pradesh,NA,4.4,6.6,41000,79000
+1124,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Mathura d/s, U.P.",Uttar Pradesh,2018,3.3,9.7,1000,9200000
+1124,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Mathura d/s,Uttar Pradesh,2019,3.5,6.8,7800,240000
+1124,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Mathura d/s,Uttar Pradesh,2020,1.6,6.8,1700,170000
+1124,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Mathura d/s,Uttar Pradesh,2021,2.5,8.9,170,920000
+1125,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Agra u/s, U.P.",Uttar Pradesh,2018,2.9,10.2,810,7800000
+1125,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Agra u/s,Uttar Pradesh,2019,1.1,7.4,930,17000
+1125,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Agra u/s,Uttar Pradesh,2020,1.4,9.6,220,3300000
+1125,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Agra u/s,Uttar Pradesh,2021,3.1,10.6,400,35000
+1126,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at d/s of Agra,Uttar Pradesh,2018,4,18.6,450,240000
+1126,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at d/s of Agra,Uttar Pradesh,2019,0.5,12.6,200,79000
+1126,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at d/s of Agra,Uttar Pradesh,2020,3.8,16.2,450,6100000
+1126,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at d/s of Agra,Uttar Pradesh,2021,1,6.2,4500,240000
+1498,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Bateswar,Uttar Pradesh,2018,4.1,22,130,13000
+1498,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Bateswar,Uttar Pradesh,2019,3,16.9,2,79000
+1498,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Bateswar,Uttar Pradesh,2020,2.6,9.2,450,1400
+1498,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Bateswar,Uttar Pradesh,2021,6.1,7.4,9000,16000
+1127,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Etawah,Uttar Pradesh,2018,5.2,16.4,33,92000
+1127,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Etawah,Uttar Pradesh,2019,4.6,16.2,2,24000
+1127,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Etawah,Uttar Pradesh,2020,7.3,7.3,20,200
+1127,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Etawah,Uttar Pradesh,2021,5.4,5.8,13000,32000
+1499,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Juhika b/c with Chambal, Etawah",Uttar Pradesh,2018,5.6,11.5,5,54000
+1499,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Juhikab/with Chambal, Etawah",Uttar Pradesh,2019,6.8,11.4,2,110000
+1499,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Juhika b/c with Chambal, Etawah",Uttar Pradesh,2020,8.1,11.3,68,7800
+1499,Primary Water Quality Criteria for Out Door Bathing,"River Yamuna at Juhika b/c with Chambal, Etawah",Uttar Pradesh,2021,6.4,8.1,9000,15000
+2283,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Hamirpur,Uttar Pradesh,2019,8.8,9.6,450,790
+2283,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Hamirpur,Uttar Pradesh,2020,8.4,8.4,330,2200
+1069,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Allahabad d/s (Baluaghat),Uttar Pradesh,2018,7.4,9.2,1300,6800
+1069,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Allahabad d/s (Baluaghat),Uttar Pradesh,2019,6.8,11.7,1700,7900
+1069,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Allahabad d/s (Baluaghat),Uttar Pradesh,2020,7.3,11.5,310,2100
+1069,Primary Water Quality Criteria for Out Door Bathing,River Yamuna at Allahabad d/s (Baluaghat),Uttar Pradesh,2021,7.4,8.5,490,930

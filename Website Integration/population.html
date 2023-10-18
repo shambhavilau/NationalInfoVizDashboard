@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./population.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <nav class="navbar">
+      <img class="logo-icon" alt="" src="./public/logo@2x.png" />
+      <div class="icons">
+        <button class="search">
+          <img class="vector-icon" alt="" />
+          <img class="vector-icon1" alt="" src="./public/vector.svg" />
+        </button>
+        <button class="account-icon">
+          <img class="account-icon-child" alt="" src="./public/ellipse-1.svg" />
+          <img class="account-circle-icon" alt="" src="./public/account-circle.svg" />
+        </button>
+      </div>
+    </nav>
+    <div class="banner">
+      <img class="monuments-pic-icon" alt="" src="./public/monuments-pic@2x.png" />
+      <h1 class="discover-all-of">Discover all of India at one place</h1>
+    </div>
+
+    <button class="back8" autofocus id="back">
+    <img class="back-child5" alt="" src="./public/arrow-1.svg" />
+    <div class="back-to-all8">Back to all categories</div>
+    </button>
+ 
+    <div class="population1"><span>Population</span> </div>
+    <hr class="thick-heading">
+  
+    <!-- Tableau visualization -->
+    <div class='tableauPlaceholder' id='viz1683975499210' style='position: relative'>
+    <noscript>
+    <a href='#'>
+    <img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2021IndiaPopulation&#47;Dashboard1&#47;1_rss.png' style='border: none' />
+    </a>
+    </noscript>
+    <object class='tableauViz'  style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+      <param name='embed_code_version' value='3' /> 
+      <param name='site_root' value='' />
+      <param name='name' value='2021IndiaPopulation&#47;Dashboard1' />
+      <param name='tabs' value='no' /><param name='toolbar' value='yes' />
+      <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2021IndiaPopulation&#47;Dashboard1&#47;1.png' /> 
+      <param name='animate_transition' value='yes' />
+      <param name='display_static_image' value='yes' />
+      <param name='display_spinner' value='yes' />
+      <param name='display_overlay' value='yes' />
+      <param name='display_count' value='yes' />
+      <param name='language' value='en-US' />
+      <param name='filter' value='publish=yes' />
+      </object>
+    </div>                
+    <script type='text/javascript'>                    
+    var divElement = document.getElementById('viz1683975499210');                    
+    var vizElement = divElement.getElementsByTagName('object')[0];                    
+    if ( divElement.offsetWidth > 800 ) 
+    { vizElement.style.width='1200px';vizElement.style.height='627px';} 
+    else if ( divElement.offsetWidth > 500 ) 
+    { vizElement.style.width='1200px';vizElement.style.height='627px';} 
+    else 
+    { vizElement.style.width='100%';vizElement.style.height='727px';}                     
+    var scriptElement = document.createElement('script');                    
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+    </script>
+
+
+    <!-- Predictions -->
+    <div class="predict8"><span>Predictions</span> </div>
+    <hr class="thick-prediction">
+
+    <div class="prediction-form">
+      <form action="{{ url_for('predict')}}"method="post">
+          <input type="text" name="year" placeholder="Year" required="required" />
+        <input type="text" name="male_population" placeholder="Male Population" required="required" />
+          <label for="state">Select State</label>
+          <select name="state" id="state" required="required">
+              <option value="0">Delhi</option>
+              <option value="1">Harayana</option>
+              <option value="2">Punjab</option>
+              <option value="9">Maharashtra</option>
+              <option value="4">Bihar</option>
+              <option value="3">Assam</option>
+            </select>
+          
+      
+          <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+      </form>
+     
+  </div>
+  </body>
+</html>

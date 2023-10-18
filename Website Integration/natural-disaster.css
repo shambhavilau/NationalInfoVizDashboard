@@ -1,0 +1,220 @@
+.navbar {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    background: linear-gradient(
+      92.85deg,
+      rgba(98, 182, 203, 0.8),
+      rgba(27, 73, 101, 0)
+    );
+    height: 96px;
+  }
+.logo-icon {
+    position: absolute;
+    top: 19px;
+    left: 32px;
+    width: 298px;
+    height: 58px;
+    object-fit: cover;
+}  
+.icons {
+    position: absolute;
+    top: 24.2px;
+    right: 32px;
+    width: 104px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-xl);
+}
+.search {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: relative;
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
+    overflow: hidden;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  height: 71.08%;
+  width: 71.03%;
+  top: 12.5%;
+  right: 16.47%;
+  bottom: 16.43%;
+  left: 12.5%;
+}
+.account-icon {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: relative;
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+  }
+.account-icon-child {
+    position: absolute;
+    top: -6px;
+    right: -10px;
+    width: 68px;
+    height: 68px;
+}
+.account-circle-icon {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+}
+.banner{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 58px;
+    object-fit: cover;
+}
+.monuments-pic-icon {
+    position: absolute;
+    width: 100%;
+    top: 96px;
+    right: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    height: 328px;
+    object-fit: cover;
+    opacity: 0.95;
+    mix-blend-mode: multiply;
+}
+.discover-all-of {
+    margin: 0;
+    position: absolute;
+    width: calc(100% - 112px);
+    top: 232px;
+    left: 32px;
+    font-size: 40px;
+    font-weight: 700;
+    /* font-family: inherit; */
+    font-family: 'Poppins', sans-serif;;
+    display: inline-block;
+    color: azure;
+    
+}
+.back8,
+.navbar9 {
+  position: absolute;
+}
+.back8 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    top: 456px;
+    left: 32px;
+    width: 246px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-base);
+  }
+  .back8:hover {
+    animation: 1s ease 0s infinite normal none shadow-drop-bottom;
+    opacity: 1;
+}
+.back-child5,
+.back-to-all8 {
+  position: relative;
+  flex-shrink: 0;
+}
+.back-child5 {
+  width: 25px;
+  height: 14.73px;
+}
+.back-to-all8 {
+    font-size: var(--h4-size);
+    font-weight: 500;
+    font-family: var(--h4);
+    color: var(--color-dimgray);
+    text-align: left;
+    display: inline-block;
+    width: 204px;
+}
+.nd-state-specific-visualizat {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1831px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--h3-size);
+    color: var(--color-dimgray);
+    font-family: var(--h4);
+}
+.category-title8 {
+    margin: 0;
+    position: absolute;
+    width: calc(100% - 101px);
+    top: 508px;
+    right: 69px;
+    left: 32px;
+    height: 29px;
+    font-size: inherit;
+    font-family: inherit;
+}
+.natural-disasters1 {
+    position: absolute;
+    display: inline-block;
+    color: rgb(58, 53, 53);
+    text-align: left;
+    margin: 0;
+    top: 490px;
+    left: 32px;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;;
+}
+hr.thick-heading {
+    border: 2px solid rgb(232, 123, 15);
+    width: 15%;
+    margin-top: 525px;
+    margin-left: 30px;
+}
+.predict8 {
+    position: absolute;
+    display: inline-block;
+    color: rgb(58, 53, 53);
+    text-align: left;
+    margin: 0;
+    top: 1500px;
+    left: 32px;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;;
+}
+hr.thick-prediction {
+    border: 2px solid rgb(232, 123, 15);
+    width: 15%;
+    margin-top: 70px;
+    margin-left: 30px;
+}
